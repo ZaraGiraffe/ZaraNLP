@@ -1,2 +1,3 @@
 # ZaraNLP
-Here I will post notebooks with with small projects about NLP topics
+I am learning Machine Learning and
+here I will post notebooks with my small NLP projects 
